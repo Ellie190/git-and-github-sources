@@ -40,18 +40,14 @@ Learning materials on Git and GitHub
   1. **Version Control:** GitHub is primarily used for hosting Git repositories, providing version control for software development projects, tracking changes, and facilitating collaboration among developers.
   2. **Code Collaboration:** Developers can work together on projects by forking repositories, making changes in branches, and creating pull requests to propose and review code changes.
   3. **Code Review:** GitHub's pull request feature allows for detailed code reviews, enabling developers to provide feedback, discuss changes, and ensure code quality before merging.
-  4. **Issue Tracking:** GitHub provides an issue tracking system, where users can report bugs, suggest features, or raise tasks, making it easier to manage and prioritize project development.
-  5. **Project Management:** GitHub's project boards and milestones help teams organize tasks, track progress, and manage development workflows effectively.
-  6. **Documentation:** GitHub offers support for markdown files, making it suitable for maintaining project documentation, READMEs, and wikis.
-  7. **Continuous Integration (CI) and Continuous Deployment (CD):** GitHub can integrate with CI/CD services (e.g., Travis CI, CircleCI, GitHub Actions), automating build, test, and deployment processes.
-  8. **Sharing Code and Open Source:** GitHub is a popular platform for sharing open-source projects, allowing developers to collaborate on public projects and contribute to various software initiatives.
-  9. **Community Engagement:** GitHub fosters a community around projects, allowing users to follow repositories, star projects, raise issues, and contribute to discussions.
-  10. **Portfolio and Showcase:** Developers can use GitHub to showcase their projects, skills, and contributions to potential employers or collaborators.
-  11. **Education and Learning:** GitHub can be used for educational purposes, as teachers can create repositories for course materials, assignments, and students' projects.
-  12. **Data Hosting:** GitHub allows users to host data files, datasets, or static websites using GitHub Pages.
-  13. **Integration with Tools:** GitHub integrates with numerous development tools and services, like project management platforms, code editors, chat applications, and code quality tools.
-  14. **Security and Access Control:** GitHub offers access controls, allowing repository owners to manage who can view, edit, and contribute to their projects.
-  15. **API and Automation:** GitHub's API enables developers to build custom applications, automate tasks, and interact with repositories programmatically.
+  4. **Documentation:** GitHub offers support for markdown files, making it suitable for maintaining project documentation, READMEs, and wikis.
+  5. **Sharing Code and Open Source:** GitHub is a popular platform for sharing open-source projects, allowing developers to collaborate on public projects and contribute to various software initiatives.
+  6. **Community Engagement:** GitHub fosters a community around projects, allowing users to follow repositories, star projects, raise issues, and contribute to discussions.
+  7. **Portfolio and Showcase:** Developers can use GitHub to showcase their projects, skills, and contributions to potential employers or collaborators.
+  8. **Education and Learning:** GitHub can be used for educational purposes, as teachers can create repositories for course materials, assignments, and students' projects.
+  9. **Data Hosting:** GitHub allows users to host data files, datasets, or static websites using GitHub Pages.
+  10. **Integration with Tools:** GitHub integrates with numerous development tools and services, like project management platforms, code editors, chat applications, and code quality tools.
+
  
 ### GitHub Profile Creation Guide
 - [YouTube tutorial](https://www.youtube.com/watch?v=G-EGDH50hGE)
