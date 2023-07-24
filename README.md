@@ -79,7 +79,7 @@ git --version
 ```
 
 ### GitHub Repository
-- **GitHub repository:** A GitHub repository is a storage space or container where you can store and manage your project's files, code, and related resources. 
+- **GitHub repository:** A GitHub repository is a storage space or container where you can store and manage your project's files, code, and related resources. In version control systems, a repository is a data structure that stores metadata for a set of files or directory structure. 
 - **GitHub repository naming convention:** A good GitHub repository name should be descriptive, concise, lowercase, use dashes or underscores, avoid special characters, and be unique.
 - **Examples of good repository names:**
    - `awesome-website`
