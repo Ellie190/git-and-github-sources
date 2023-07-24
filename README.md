@@ -73,6 +73,10 @@ Learning materials on Git and GitHub
 ```
 git config --global user.email "youremail@example.com"
 ```
+### Git Version
+```
+git --version
+```
 
 ### GitHub Repository
 - **GitHub repository:** A GitHub repository is a storage space or container where you can store and manage your project's files, code, and related resources. 
