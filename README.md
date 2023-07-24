@@ -142,6 +142,10 @@ Sure! Here's the updated table with an additional column that provides a brief e
 | `rm`     | Remove files or directories                      | `rm [options] <file/directory>`                |
 | `cp`     | Copy files or directories                        | `cp [options] <source> <destination>`          |
 | `mv`     | Move or rename files or directories              | `mv <source> <destination>`                    |
+| `cd ..`  | Move one directory back                          | `cd ..`                                        |
+| `cd ../../..`  | To move multiple directories back, you can chain the cd .. command as needed| `cd ../../..`  |
+
+
 
 ### Push local project or code to GitHub
 Assume you have a local project directory called `"my_project"` with some code files, and you want to push your changes to a remote repository on GitHub.
