@@ -162,7 +162,7 @@ git commit -m "Added new homepage design"
 ```
 git remote add origin https://github.com/your-username/my_project_repo.git
 ```
-5. Push your changes to the remote repository - Now, push the committed changes to the "main" branch (GitHub's default branch name) on the remote repository:
+5. Push your changes to the remote repository - Now, push the committed changes to the "main" branch (GitHub's default branch name) on the remote repository (substitute `master` branch with `main` branch if `master` branch is used):
 ```
 git push origin main
 ```
