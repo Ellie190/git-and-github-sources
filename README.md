@@ -148,7 +148,9 @@ Sure! Here's the updated table with an additional column that provides a brief e
 
 
 ### Push local project or code to GitHub
-Assume you have a local project directory called `"my_project"` with some code files, and you want to push your changes to a remote repository on GitHub.
+Assume you have a local project directory called `"my_project"` with some code files, and you want to push your changes to a remote repository on GitHub. 
+
+- [Adding locally hosted code to GitHub](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github)
 1. Initialize Git repository (if not already done):
 ```
 cd /path/to/my_project
@@ -176,6 +178,9 @@ If this is your first time pushing to the remote repository, Git may prompt you 
 - [Markdown](https://www.markdownguide.org/cheat-sheet/)
 - [.gitignore](https://github.com/kenmueller/gitignore)
 - [Common Git commands](https://dev.to/ruppysuppy/git-cheat-sheet-with-40-commands-concepts-1m26)
+
+### Videos 
+- [How to Compare and Create Pull Requests on GitHub](https://www.youtube.com/watch?v=K-pI_qSKDfo)
 
 
 
