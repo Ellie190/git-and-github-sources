@@ -156,6 +156,42 @@ Assume you have a local project directory called `"my_project"` with some code f
 
 - [Adding locally hosted code to GitHub](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github)
 
+### Branch naming 
+When working with GitHub branches, it's essential to follow a consistent and meaningful naming convention to maintain clarity and organization within the repository.
+1. **Feature Branch**:
+   - Branch name: `feature/add-user-authentication`
+   - Description: This branch is used to develop the user authentication feature.
+
+2. **Bugfix Branch**:
+   - Branch name: `bugfix/fix-login-crash`
+   - Description: This branch is used to fix a bug that causes the application to crash during login.
+
+3. **Hotfix Branch**:
+   - Branch name: `hotfix/fix-security-issue`
+   - Description: This branch is used to address a critical security issue.
+
+4. **Release Branch**:
+   - Branch name: `release/v2.1.0`
+   - Description: This branch is used to prepare for the v2.1.0 release of the software.
+
+5. **Main Branch**:
+   - Branch name: `main`
+   - Description: The default branch in the repository where the stable code resides.
+
+6. **Other Branches**:
+   - Branch name: `docs/update-readme`
+   - Description: This branch is used to make updates to the project documentation, particularly the README file.
+
+   - Branch name: `refactor/improve-performance`
+   - Description: This branch is used to refactor the codebase to improve performance.
+
+   - Branch name: `test/add-unit-tests`
+   - Description: This branch is used to add new unit tests to improve code coverage.
+
+```
+git checkout -b feature/add-new-feature
+```
+
 
 ### Cheat Sheets
 - [Markdown](https://www.markdownguide.org/cheat-sheet/)
