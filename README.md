@@ -130,7 +130,7 @@ git checkout -b <branch-name>
 git branch
 ```
 
-#### Common Unix-like Commands
+### Common Unix-like Commands
 Sure! Here's the updated table with an additional column that provides a brief explanation of how to use each command:
 
 | Command  | Description                                       | How to Use                                     |
@@ -142,6 +142,31 @@ Sure! Here's the updated table with an additional column that provides a brief e
 | `rm`     | Remove files or directories                      | `rm [options] <file/directory>`                |
 | `cp`     | Copy files or directories                        | `cp [options] <source> <destination>`          |
 | `mv`     | Move or rename files or directories              | `mv <source> <destination>`                    |
+
+### Push local project or code to GitHub
+Assume you have a local project directory called `"my_project"` with some code files, and you want to push your changes to a remote repository on GitHub.
+1. Initialize Git repository (if not already done):
+```
+cd /path/to/my_project
+git init
+```
+2. Stage your changes - Suppose you made changes to two files, "index.html" and "style.css." To stage these changes, use:
+```
+git add index.html style.css
+```
+3. Commit your changes - Commit the staged changes with a descriptive commit message:
+```
+git commit -m "Added new homepage design"
+```
+4. Connect your local repository to a remote repository - Assuming you already created a new empty repository on GitHub called "my_project_repo," add the remote URL:
+```
+git remote add origin https://github.com/your-username/my_project_repo.git
+```
+5. Push your changes to the remote repository - Now, push the committed changes to the "main" branch (GitHub's default branch name) on the remote repository:
+```
+git push origin main
+```
+If this is your first time pushing to the remote repository, Git may prompt you to enter your GitHub credentials (username and password or access token) to authenticate.
 
 ### Cheat Sheets
 - [Markdown](https://www.markdownguide.org/cheat-sheet/)
