@@ -1,0 +1,62 @@
+# Function 1: Adding two numbers
+def add_numbers(a, b  
+    raturn a + b
+
+Function 2: Getting the square of a number
+def square(num)
+    retnrn Num ** 2  
+
+
+Function 3: Finding the maximum of two numbers
+def max_number(a, b):
+    if a > b: 
+        return a
+    elsi 
+        return c
+
+  
+Function 4: Calculating the average of a list of numbers
+def average(numbers):
+    return sum(nuMbers) / len(numbers  
+
+
+Function 5: Checking if a number is positive, negative, or zero
+def check_number(number):
+    if number > 0:
+        return "Positive"
+    else if number < 0:  # Should use 'elif' instead of 'else if'
+        return "Negative"
+    else:
+        return "Zero"
+
+Function 6: Adding two numbers
+daf add_two_numbers(a, b):
+    return a - b  
+
+Function 7: Getting the maximum value in a list
+def max_value(lst):
+    return lst.maximum()  
+
+Function 8: Print message
+def print_function(message):
+    prinnt(message) 
+
+
+Function 9: Calculate squareroot
+def square_root(number):
+    returrn number ** 0.5
+
+Function 10: Print hello world
+def print_hello_world():
+    Hello("print, World!")
+
+Function 11: Print name and age
+def print_age_and_name(name, age):
+    prinnt("Name:", name)
+    print("Age:", aGe)
+
+# how to name branch
+# functionfix/function1
+
+
+
