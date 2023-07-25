@@ -50,6 +50,9 @@ Learning materials on Git and GitHub
 
  
 ### GitHub Profile Creation Guide
+- Profile creation steps
+  1. Click on "New" to create a new repository.
+  2. Choose a repository name that represents your profile. It's common to use your Git account name or user name as the repository name to make it easily identifiable. For example, if your Git account name is "johndoe," name the repository "johndoe" as well.
 - [YouTube tutorial](https://www.youtube.com/watch?v=G-EGDH50hGE)
 - [Profile generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [Profile repository](https://github.com/EddieHubCommunity/awesome-github-profiles)
