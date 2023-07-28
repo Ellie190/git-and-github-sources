@@ -66,6 +66,7 @@ Learning materials on Git and GitHub
 - [Database Systems Tutor](https://github.com/Ellie190/Database_Systems_Tutor)
 - [Google Trends Dashboard](https://github.com/Ellie190/Google-Trends-Dashboard)
 - [Awesome Conformal Prediction](https://github.com/valeman/awesome-conformal-prediction)
+- [Point Blank](https://github.com/rstudio/pointblank)
 
 ### Git Configuration
 - Set up your Git identity after creating a [GitHub](https://github.com/) account and installing [Git](https://git-scm.com/downloads)
