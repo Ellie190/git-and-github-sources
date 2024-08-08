@@ -65,7 +65,6 @@ Learning materials on Git and GitHub
 - [BCNN for Ocular Disease Classification](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification)
 - [Database Systems Tutor](https://github.com/Ellie190/Database_Systems_Tutor)
 - [Google Trends Dashboard](https://github.com/Ellie190/Google-Trends-Dashboard)
-- [Awesome Conformal Prediction](https://github.com/valeman/awesome-conformal-prediction)
 - [Point Blank](https://github.com/rstudio/pointblank)
 
 ### Git Configuration
