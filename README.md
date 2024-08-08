@@ -59,7 +59,7 @@ Learning materials on Git and GitHub
 - [Profile examples](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)
 
 ### GitHub Documentation Samples
-- [Awesome GitHub Profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+- [Awesome GitHub Profiles](https://zzetao.github.io/awesome-github-profile/)
 - [Shapash](https://github.com/MAIF/shapash)
 - [Pandas](https://github.com/pandas-dev/pandas)
 - [BCNN for Ocular Disease Classification](https://github.com/Ellie190/BCNN-for-Ocular-Disease-Classification)
