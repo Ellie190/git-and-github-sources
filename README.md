@@ -138,7 +138,6 @@ git branch
 ```
 
 ### Common Unix-like Commands
-Sure! Here's the updated table with an additional column that provides a brief explanation of how to use each command:
 
 | Command  | Description                                       | How to Use                                     |
 |----------|---------------------------------------------------|------------------------------------------------|
