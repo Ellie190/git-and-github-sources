@@ -154,9 +154,42 @@ git branch
 
 
 ### Push local project or code to GitHub
-Assume you have a local project directory called `"my_project"` with some code files, and you want to push your changes to a remote repository on GitHub. For simplicity, ensure your local directory project name is the same as the remote GitHub repository
+To push a local folder that is not yet recognized by version control (VCS) to GitHub, you need to follow these steps:
 
-- [Adding locally hosted code to GitHub](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github)
+1. Initialize the Git Repository
+```
+cd /path/to/your/folder
+git init
+```
+2. Add Files to the Staging Area
+```
+git add .
+```
+- The `.` adds all files in the directory to the staging area. You can also add specific files or directories.
+
+3. Commit the Files
+```
+git commit -m "Initial commit"
+```
+- The `-m` flag allows you to add a commit message directly in the command.
+4. Create a GitHub Repository
+  - Go to GitHub and create a new repository. For simplicity ensure the repository has the same as your local folder
+  - Copy the repository URL (e.g., https://github.com/username/repository.git).
+
+ 5. Add the Remote Repository
+```
+git remote add origin https://github.com/username/repository.git
+```
+6. Rename the Default Branch to `main`
+```
+git branch -M main
+```
+7. Push to GitHub
+```
+git push -u origin main
+```
+
+
 
 ### Branch naming 
 When working with GitHub branches, it's essential to follow a consistent and meaningful naming convention to maintain clarity and organization within the repository.
