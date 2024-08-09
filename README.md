@@ -188,6 +188,8 @@ git branch -M main
 ```
 git push -u origin main
 ```
+- The `-u` flag sets the origin as the default upstream remote for the master branch. This means that in the future, you can simply run git push or git pull without specifying 1origin` and `main`, and Git will automatically know to interact with the `origin/main` branch.
+- `origin` is the default name of the remote repository that Git creates when you clone a repository or add a remote.
 
 
 
