@@ -198,6 +198,7 @@ git push -u origin main
 cd /path/to/your/project
 ```
 2. Create a `.gitignore` File
+- GitHub Docs: [Configuring ignored files for a single repository](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files)
 - The .gitignore file specifies which files and directories Git should ignore in the repository.
 - Create the .gitignore file:
 ```
