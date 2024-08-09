@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction to Git and GitHub</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="bg-dark text-white py-3">
+        <div class="container">
+            <h1 class="mb-0">Introduction to Git and GitHub</h1>
+            <nav class="mt-2">
+                <ul class="nav">
+                    <li class="nav-item"><a class="nav-link text-primary" href="#git">What is Git?</a></li>
+                    <li class="nav-item"><a class="nav-link text-primary" href="#github">What is GitHub?</a></li>
+                    <li class="nav-item"><a class="nav-link text-primary" href="#setup">Setting Up Git</a></li>
+                    <li class="nav-item"><a class="nav-link text-primary" href="#workflow">Basic Workflow</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container my-5">
+        <section id="git" class="mb-5">
+            <h2 class="text-dark">What is Git?</h2>
+            <p>Git is a distributed version control system used to track changes in source code during software development. It allows multiple developers to work on a project simultaneously without interfering with each other's changes.</p>
+        </section>
+
+        <section id="github" class="mb-5">
+            <h2 class="text-dark">What is GitHub?</h2>
+            <p>GitHub is a cloud-based platform that uses Git for version control. It provides a web-based interface to manage and review code, track changes, and collaborate with others on projects.</p>
+        </section>
+
+        <section id="setup" class="mb-5">
+            <h2 class="text-dark">Setting Up Git</h2>
+            <p>To start using Git, follow these steps:</p>
+            <ol>
+                <li>Download and install Git from <a href="https://git-scm.com/downloads" target="_blank" class="text-primary">git-scm.com</a>.</li>
+                <li>Set up your Git configuration with <code>git config --global user.name "Your Name"</code> and <code>git config --global user.email "you@example.com"</code>.</li>
+                <li>Create a new repository with <code>git init</code> or clone an existing one with <code>git clone &lt;repository-url&gt;</code>.</li>
+            </ol>
+        </section>
+
+        <section id="workflow" class="mb-5">
+            <h2 class="text-dark">Basic Workflow</h2>
+            <p>A typical Git workflow includes the following steps:</p>
+            <ol>
+                <li><strong>Add:</strong> Use <code>git add &lt;file&gt;</code> to stage changes.</li>
+                <li><strong>Commit:</strong> Use <code>git commit -m "Commit message"</code> to save your changes.</li>
+                <li><strong>Push:</strong> Use <code>git push</code> to upload your changes to a remote repository.</li>
+                <li><strong>Pull:</strong> Use <code>git pull</code> to update your local repository with changes from a remote repository.</li>
+            </ol>
+        </section>
+    </main>
+
+    <footer class="bg-dark text-white text-center py-3">
+        <p>&copy; 2024 Introduction to Git and GitHub</p>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
