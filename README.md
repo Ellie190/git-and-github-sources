@@ -306,5 +306,16 @@ git checkout -b feature/add-new-feature
 ### Videos 
 - [How to Compare and Create Pull Requests on GitHub](https://www.youtube.com/watch?v=K-pI_qSKDfo)
 
+### Deploy Website on Netlify using Git & GitHub
+- [Netlify](https://www.netlify.com/)
+- [Get started with Netlify](https://docs.netlify.com/get-started/)
+
+[![Netlify Tutorial –Deploying from Git](https://img.youtube.com/vi/4h8B080Mv4U/0.jpg)](https://www.youtube.com/watch?v=4h8B080Mv4U)
+
+[![How to Deploy a Website on Netlify](https://img.youtube.com/vi/0P53S34zm44/0.jpg)](https://www.youtube.com/watch?v=0P53S34zm44)
+
+
+
+
 
 
