@@ -55,8 +55,6 @@ Learning materials on Git and GitHub
   2. Choose a repository name that represents your profile. It's common to use your Git account name or user name as the repository name to make it easily identifiable. For example, if your Git account name is "johndoe," name the repository "johndoe" as well.
 - [YouTube tutorial](https://www.youtube.com/watch?v=G-EGDH50hGE)
 - [Profile generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-- [Profile repository](https://github.com/EddieHubCommunity/awesome-github-profiles)
-- [Profile examples](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)
 
 ### GitHub Documentation Samples
 - [Awesome GitHub Profiles](https://zzetao.github.io/awesome-github-profile/)
