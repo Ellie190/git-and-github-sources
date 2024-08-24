@@ -1,3 +1,21 @@
 Create AI images: https://www.bing.com/images/create/
 
 How to Setup Visual Studio Code for Web Development | HTML, CSS, and JavaScript: https://www.youtube.com/watch?v=mL1IcxIUd5Y
+
+Deploy on netlify
+0. Create a website in a folder named website - containing all the web-development files
+1. Create a GitHub and push website to GitHub
+2. Navigate https://app.netlify.com/
+3. Click add new site followed by import an existing project
+
+vs code extensions for web-development (extensions that make web-development easier)
+- live server
+- JavaScript (ES6) code snippets
+- bootstrap (install the latest version)
+
+Opening live server. 
+1. Right click 
+2. Select and click open with Live Server
+3. Press ctrl + s to save changes and see updates on the Live Server
+
+Create a GitHub Pages site
